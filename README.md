@@ -13,3 +13,4 @@ googletrans
 ```python3 chatdosenguru.py```
 
 ## Example
+chat-dosen-guru/ex.png
