@@ -6,6 +6,8 @@ import datetime
 from googletrans import Translator
 import os
 
+time = datetime.datetime.now()
+
 #Gender guru/dosen
 def isMale(gender_dosen):
 	if (gender_dosen == "L"):
@@ -16,7 +18,6 @@ def isMale(gender_dosen):
 
 #Waktu sekarang
 def isTime():
-	time = datetime.datetime.now()
 	if (time.hour < 10):
 		waktu = "pagi "
 	elif (time.hour < 14):
