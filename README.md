@@ -13,4 +13,4 @@ googletrans
 ```python3 chatdosenguru.py```
 
 ## Example
-![ex](chat-guru-dosen/ex.png)
+![ex](chat-dosen-guru/ex.png)
